@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("fc5b3626-0314-4503-bee9-b4a76c73fa6f")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Practicum.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23ca6583b9f5b6ab110d30b3560bdd6a66910740")]
 [assembly: System.Reflection.AssemblyProductAttribute("Practicum.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Practicum.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

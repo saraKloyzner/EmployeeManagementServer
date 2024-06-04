@@ -135,7 +135,6 @@ Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\serve
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\obj\Debug\net6.0\staticwebassets.build.json
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\obj\Debug\net6.0\staticwebassets.development.json
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\obj\Debug\net6.0\scopedcss\bundle\Practicum.API.styles.css
-Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\obj\Debug\net6.0\Practicum.API.csproj.CopyComplete
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\obj\Debug\net6.0\Practicum.API.genruntimeconfig.cache
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\obj\Debug\net6.0\ref\Practicum.API.dll
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
@@ -292,3 +291,10 @@ Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\git\Practicum\s
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\git\Practicum\server\Practicum.API\obj\Debug\net6.0\Practicum.API.pdb
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\git\Practicum\server\Practicum.API\obj\Debug\net6.0\Practicum.API.genruntimeconfig.cache
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\git\Practicum\server\Practicum.API\obj\Debug\net6.0\ref\Practicum.API.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\obj\Debug\net6.0\Practicum.API.sourcelink.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\obj\Debug\net6.0\staticwebassets\msbuild.Practicum.API.Microsoft.AspNetCore.StaticWebAssets.props
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Practicum.API.props
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Practicum.API.props
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Practicum.API.props
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\obj\Debug\net6.0\staticwebassets.pack.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.API\obj\Debug\net6.0\Practicu.C935069C.Up2Date

@@ -18,7 +18,7 @@ namespace Practicum.Data
        
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=my_db1");
+            optionsBuilder.UseSqlServer("Server=34.122.63.173;Database=SARI_KLO;Uid=SqlServer;Pwd=123456;TrustServerCertificate=Yes");
             optionsBuilder.LogTo((message) => Debug.Write(message));
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)

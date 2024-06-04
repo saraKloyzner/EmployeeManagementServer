@@ -26,7 +26,6 @@ Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\serve
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.Data\obj\Debug\net6.0\Practicum.Data.AssemblyInfoInputs.cache
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.Data\obj\Debug\net6.0\Practicum.Data.AssemblyInfo.cs
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.Data\obj\Debug\net6.0\Practicum.Data.csproj.CoreCompileInputs.cache
-Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.Data\obj\Debug\net6.0\Practicum.Data.csproj.CopyComplete
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.Data\obj\Debug\net6.0\Practicum.Data.dll
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.Data\obj\Debug\net6.0\refint\Practicum.Data.dll
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.Data\obj\Debug\net6.0\Practicum.Data.pdb
@@ -67,3 +66,5 @@ Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\git\Practicum\s
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\git\Practicum\server\Practicum.Data\obj\Debug\net6.0\Practicum.Data.pdb
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\git\Practicum\server\Practicum.Data\obj\Debug\net6.0\Practicum.Data.genruntimeconfig.cache
 Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\git\Practicum\server\Practicum.Data\obj\Debug\net6.0\ref\Practicum.Data.dll
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.Data\obj\Debug\net6.0\Practicum.Data.sourcelink.json
+Y:\Groups\Group_3\קלויזנר  שרה לאה\פרקטיקום\Practicum\server\Practicum.Data\obj\Debug\net6.0\Practicu.3C09C352.Up2Date
